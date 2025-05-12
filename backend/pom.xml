@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.createconnect</groupId>
+  <artifactId>createconnect-backend</artifactId>
+  <version>0.1.0</version>
+  <name>CreateConnect Backend</name>
+</project>
